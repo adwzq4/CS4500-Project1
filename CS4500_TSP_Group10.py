@@ -5,7 +5,7 @@ course at UMSL under Dr. Keith Miller.
 This program implements an exhaustive or a "brute force" version
 of the famous algorithm, the Traveling Salesman Problem (TSP). 
 CONTRIBUTORS: James Brown (jtb9d2@mail.umsl.edu)
-              Safiullah Khan ()
+              Safiullah Khan (sskkn7@mail.umsl.edu)
               Eva Roeder (emrf2b@mail.umsl.edu)
               Adam Wilson (adwzq4@gmail.com)
 PROJECT NAME: "Implementation of an Exhaustive Traveling Salesman Problem"
