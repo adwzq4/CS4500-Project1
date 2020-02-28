@@ -115,8 +115,7 @@ def find_distances(coords, k):
     
     print("\nDISTANCE MATRIX")
     for row in matrix:
-        print (" ".join(map(str,row)))
-        print("\t\t")          
+        print ("\t".join(map(str,row)) + "\n\n")          
         
     return dist_matrix
 
