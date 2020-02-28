@@ -1,5 +1,15 @@
-package softwareProfession;
-
+/*
+TITLE: TSP Solution
+FILES: Tsp.java, Method.java
+PROGRAMMERS: James Brown, Safiullah Khan, Eva Roeder, Adam Wilson
+EMAIL ADDRESSES: adwzq4@gmail.com, sskkn7@mail.umsl.edu, jtb9d2@mail.umsl.edu, emrf2b@mail.umsl.edu
+COURSE NUMBER: CS4500-01
+DATE: 2/28/2020
+DESCRIPTION: This program finds the solution to the Travelling Salesperson Problem
+    by iterating through every permutation of a list of "cities" located on an (x,y) grid.
+RESOURCES USED:
+	https://stackoverflow.com/questions/33829836/drawing-a-rectangle-in-java-applet
+*/
 import java.applet.Applet;
 import java.awt.AWTEvent;
 import java.awt.Button;
